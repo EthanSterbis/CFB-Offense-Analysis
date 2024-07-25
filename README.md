@@ -1,4 +1,4 @@
-## Author: Ethan Sterbis
+## Author: Ethan Sterbis | [LinkedIn](https://www.linkedin.com/in/ethansterbis/) | [Twitter](https://x.com/EthanSterbis)
 
 ## Information:
 CFB Offense Analysis is an R script I developed to analyze the many facets of a college football offense.
