@@ -10,6 +10,7 @@ The outputs include 10 data visualizations intended to provide context and insig
 particular college football team's offensive usage, tendencies, efficiency, etc.
 
 ## Sample Data Visualizations:
+(most are cut off to not display entire image)
 <img src="https://github.com/user-attachments/assets/9dee57e1-91f3-4d03-8ff3-8b03fe47793c" width="100%" alt="Game Record Summary Table" />
 <img src="https://github.com/user-attachments/assets/7fdd3bcf-66e0-4c79-82ae-7fbfe2c6e666" width="100%" alt="Offensive Summary Table" />
 <img src="https://github.com/user-attachments/assets/451ace3b-7a11-41f2-a87f-1a49cfd1f716" width="100%" alt="Down and Distance Summary Table" />
