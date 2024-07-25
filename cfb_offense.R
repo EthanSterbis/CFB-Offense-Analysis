@@ -1068,21 +1068,31 @@ playerUsageTeamTable <- playerUsagefPosTeam %>%
 #### OUTPUTS ####
 
 gameRecordSummTable #1
+#gtsave(gameRecordSummTable, "1gameRecordSummTable.png")
 
 offSummTable #2
+#gtsave(offSummTable, "2offSummTable.png")
 
-dndSummaryTable #3 
+dndSummaryTable #3
+#gtsave(dndSummaryTable, "3dndSummaryTable.png")
 
 dndPassTable #4
+#gtsave(dndPassTable, "4dndPassTable.png")
 
 dndRushTable #5
+#gtsave(dndRushTable, "5dndRushTable.png")
 
 dndRZTable #6
+#gtsave(dndRZTable, "6dndRZTable.png")
 
 playerUsageTeamTable #7
+#gtsave(playerUsageTeamTable, "7playerUsageTeamTable.png")
 
 passRateEffPlot #8
+#ggsave("8passRateEffPlot.png", dpi = "retina", width = 10, height = 10)
 
 rushRateEffPlot #9
+#ggsave("9rushRateEffPlot.png", dpi = "retina", width = 10, height = 10)
 
 pctExplPlot #10
+#ggsave("10pctExplPlot.png", dpi = "retina", width = 10, height = 10)
