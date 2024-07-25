@@ -1,7 +1,7 @@
 ## Author: Ethan Sterbis
 
 ## Information:
-CFB Offense Analysis is an R script I developed to analyze college football offenses's multi-facted nature.
+CFB Offense Analysis is an R script I developed to analyze the many facets of a college football offense.
 The script involves gathering data from the cfbfastR package, including play by play data for FBS schools.
 Also included is C[CFBD](https://collegefootballdata.com/) data again gathered via cfbfastR.
 
