@@ -12,7 +12,7 @@ particular college football team's offensive usage, tendencies, efficiency, etc.
 <img src="https://github.com/user-attachments/assets/9dee57e1-91f3-4d03-8ff3-8b03fe47793c" width="100%" alt="Game Record Summary Table" />
 <img src="https://github.com/user-attachments/assets/7fdd3bcf-66e0-4c79-82ae-7fbfe2c6e666" width="100%" alt="Offensive Summary Table" />
 <img src="https://github.com/user-attachments/assets/451ace3b-7a11-41f2-a87f-1a49cfd1f716" width="100%" alt="Down and Distance Summary Table" />
-<img src="https://github.com/user-attachments/assets/62182d2e-7a11-41f2-a87f-1a49cfd1f716" width="100%" alt="Down and Distance Pass Table" />
+<img src="https://github.com/user-attachments/assets/62182d2e-7d8a-475d-9f63-b8d89ca1ad8a" width="100%" alt="Down and Distance Pass Table" />
 <img src="https://github.com/user-attachments/assets/4e06d375-6625-47e5-80a2-02090eb2fd88" width="100%" alt="Down and Distance Rush Table" />
 <img src="https://github.com/user-attachments/assets/15e28593-94ce-4c56-bf48-368711a7c421" width="100%" alt="Down and Distance Red Zone Table" />
 <img src="https://github.com/user-attachments/assets/c14dbf89-07c4-4eed-824c-a353a57663ce" width="100%" alt="Player Usage Team Table" />
