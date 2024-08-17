@@ -2,7 +2,7 @@
 
 ## Information:
 CFB Offense Analysis is an R project I developed to analyze the many facets of a college football offense.
-It involves gathering data from the cfbfastR package, including play by play data for FBS schools.
+It involves gathering data from the cfbfastR package, including play-by-play data for FBS schools.
 Also included is [CFBD](https://collegefootballdata.com/) data again gathered via cfbfastR. A CFBD API Key is
 needed which you can receive for free [here](https://collegefootballdata.com/key).
 
